@@ -1,0 +1,1 @@
+/Users/node/Desktop/emburritos/node_modules/ember-data/addon/model.js
