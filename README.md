@@ -36,7 +36,7 @@ The command will automatically generate three new files:
 3. tests/unit/routes/emberritos-test.js
 
 Go to templates/application.hbs and type in something to the effect
-```
+```html
 <h1> We got ourselves a list of emberritos :) </h1>
 ```
 (you can do this above or below {{outlet}}
