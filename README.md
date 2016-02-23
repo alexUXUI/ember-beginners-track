@@ -37,7 +37,7 @@ The command will automatically generate three new files:
 
 Go to templates/application.hbs and type in something to the effect
 ```html
-<h1> We got ourselves a list of emberritos :) </h1>
+<h1>List of Emberritos</h1>
 ```
 (you can do this above or below {{outlet}}
 
