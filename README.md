@@ -2,6 +2,21 @@
 
 [See the slideshow](http://slides.com/alexbennett/intro-to-ember-js)
 
+> More awesome rescources 
+
+```
+https://guides.emberjs.com/v2.3.0/
+--> https://ember-twiddle.com/
+https://developer.mozilla.org/en-US/Apps/Build/Modern_web_app_architecture/Views_and_templates
+http://yoember.com/
+--> https://twitter.com/zoltan_nz
+http://emberwatch.com/tutorials.html
+http://emberigniter.com/
+--> http://emberigniter.com/new-to-ember-cli-start-here-2016-tutorial/
+--> http://emberigniter.com/5-essential-ember-2.0-concepts/
+--> http://emberigniter.com/should-we-use-controllers-ember-2.0/
+```
+
 ___
 ### **Step One:** Get set up.
 First, make sure you download node.js as well as ember.
