@@ -71,7 +71,7 @@ In order to tell the browser how to turn this data into html, we will add some l
 <h2>List of Emberritos</h2>
 
 <ul>
-  {{#each emberrito as |emberrito|}}
+  {{#each model as |emberrito|}}
     <li>{{emberrito}}</li>
   {{/each}}
 </ul>
@@ -93,7 +93,7 @@ paste the code:
 ```html
 {{yield}}
 <ul>
-  {{#each emberrito as |emberrito|}}
+  {{#each model as |emberrito|}}
     <li>{{emberrito}}</li>
   {{/each}}
 </ul>
